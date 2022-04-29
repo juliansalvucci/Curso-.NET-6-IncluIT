@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.exe
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.deps.json
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.runtimeconfig.json
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.dll
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\bin\Debug\net6.0\TipoDeDatos.pdb
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.AssemblyInfo.cs
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.dll
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\refint\TipoDeDatos.dll
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.pdb
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\TipoDeDatos.genruntimeconfig.cache
+C:\Users\julia\source\repos\TipoDeDatos\TipoDeDatos\obj\Debug\net6.0\ref\TipoDeDatos.dll
