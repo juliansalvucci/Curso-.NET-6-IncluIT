@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\bin\Debug\net6.0\EntradasYSalidas.exe
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\bin\Debug\net6.0\EntradasYSalidas.deps.json
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\bin\Debug\net6.0\EntradasYSalidas.runtimeconfig.json
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\bin\Debug\net6.0\EntradasYSalidas.dll
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\bin\Debug\net6.0\EntradasYSalidas.pdb
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.AssemblyInfo.cs
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.dll
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\refint\EntradasYSalidas.dll
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.pdb
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\EntradasYSalidas.genruntimeconfig.cache
+C:\Users\julia\source\repos\EntradasYSalidas\EntradasYSalidas\obj\Debug\net6.0\ref\EntradasYSalidas.dll
