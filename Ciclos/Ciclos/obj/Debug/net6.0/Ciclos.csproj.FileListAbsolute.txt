@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.exe
+C:\Users\julia\source\repos\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.deps.json
+C:\Users\julia\source\repos\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.runtimeconfig.json
+C:\Users\julia\source\repos\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.dll
+C:\Users\julia\source\repos\Ciclos\Ciclos\bin\Debug\net6.0\Ciclos.pdb
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.AssemblyInfo.cs
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.dll
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\refint\Ciclos.dll
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.pdb
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\Ciclos.genruntimeconfig.cache
+C:\Users\julia\source\repos\Ciclos\Ciclos\obj\Debug\net6.0\ref\Ciclos.dll

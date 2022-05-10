@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Condicionales\\Condicionales\\Condicionales.csproj": {}
+    "C:\\Users\\julia\\source\\repos\\Ciclos\\Ciclos\\Ciclos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Condicionales\\Condicionales\\Condicionales.csproj": {
+    "C:\\Users\\julia\\source\\repos\\Ciclos\\Ciclos\\Ciclos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Condicionales\\Condicionales\\Condicionales.csproj",
-        "projectName": "Condicionales",
-        "projectPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Condicionales\\Condicionales\\Condicionales.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\Ciclos\\Ciclos\\Ciclos.csproj",
+        "projectName": "Ciclos",
+        "projectPath": "C:\\Users\\julia\\source\\repos\\Ciclos\\Ciclos\\Ciclos.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Condicionales\\Condicionales\\obj\\",
+        "outputPath": "C:\\Users\\julia\\source\\repos\\Ciclos\\Ciclos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

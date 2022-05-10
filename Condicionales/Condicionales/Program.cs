@@ -90,3 +90,20 @@ switch (operacion)
         Console.WriteLine("Valor inválido");
         break;
 }
+
+
+Console.WriteLine("Desea continuar? (S/N)");
+var texto = Console.ReadLine();
+
+if(texto.ToUpper() == "S")
+{
+    Console.WriteLine("AVANZANDO");
+}
+else if(texto.ToUpper() == "N")
+{
+    Console.WriteLine("DENEGADO");
+}
+else
+{
+    Console.WriteLine("Usted es un boludo");
+}
