@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\bin\Debug\net6.0\Tarea-Clase7.exe
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\bin\Debug\net6.0\Tarea-Clase7.deps.json
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\bin\Debug\net6.0\Tarea-Clase7.runtimeconfig.json
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\bin\Debug\net6.0\Tarea-Clase7.dll
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\bin\Debug\net6.0\Tarea-Clase7.pdb
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.AssemblyInfo.cs
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.dll
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\refint\Tarea-Clase7.dll
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.pdb
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\Tarea-Clase7.genruntimeconfig.cache
+C:\Users\julia\source\repos\Tarea-Clase7\Tarea-Clase7\obj\Debug\net6.0\ref\Tarea-Clase7.dll
