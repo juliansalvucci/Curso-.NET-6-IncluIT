@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\bin\Debug\net6.0\TareaClase8.exe
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\bin\Debug\net6.0\TareaClase8.deps.json
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\bin\Debug\net6.0\TareaClase8.runtimeconfig.json
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\bin\Debug\net6.0\TareaClase8.dll
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\bin\Debug\net6.0\TareaClase8.pdb
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.AssemblyInfo.cs
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.dll
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\refint\TareaClase8.dll
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.pdb
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\TareaClase8.genruntimeconfig.cache
+C:\Users\julia\source\repos\TareaClase8\TareaClase8\obj\Debug\net6.0\ref\TareaClase8.dll

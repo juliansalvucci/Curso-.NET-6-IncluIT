@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\bin\Debug\net6.0\Clase9 Matrices parte 2.exe
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\bin\Debug\net6.0\Clase9 Matrices parte 2.deps.json
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\bin\Debug\net6.0\Clase9 Matrices parte 2.runtimeconfig.json
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\bin\Debug\net6.0\Clase9 Matrices parte 2.dll
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\bin\Debug\net6.0\Clase9 Matrices parte 2.pdb
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.AssemblyInfo.cs
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.dll
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\refint\Clase9 Matrices parte 2.dll
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.pdb
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\Clase9 Matrices parte 2.genruntimeconfig.cache
+C:\Users\julia\source\repos\Clase9 Matrices parte 2\Clase9 Matrices parte 2\obj\Debug\net6.0\ref\Clase9 Matrices parte 2.dll
