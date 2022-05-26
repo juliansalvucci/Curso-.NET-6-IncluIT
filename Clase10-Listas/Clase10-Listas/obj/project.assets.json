@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\TareaClase8\\TareaClase8\\TareaClase8.csproj",
-      "projectName": "TareaClase8",
-      "projectPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\TareaClase8\\TareaClase8\\TareaClase8.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\source\\repos\\Clase10-Listas\\Clase10-Listas\\Clase10-Listas.csproj",
+      "projectName": "Clase10-Listas",
+      "projectPath": "C:\\Users\\julia\\source\\repos\\Clase10-Listas\\Clase10-Listas\\Clase10-Listas.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\TareaClase8\\TareaClase8\\obj\\",
+      "outputPath": "C:\\Users\\julia\\source\\repos\\Clase10-Listas\\Clase10-Listas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

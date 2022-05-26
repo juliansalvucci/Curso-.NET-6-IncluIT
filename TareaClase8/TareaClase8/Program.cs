@@ -41,8 +41,9 @@ for (int columnas = 0; columnas < lengthColumnas; columnas++)
 {
     for (int filas = 0; filas < lengthFilas; filas++)
     {
-
+        suma = suma + numeros[filas, columnas];
     }
+    Console.Write(suma);
 }
 
 
