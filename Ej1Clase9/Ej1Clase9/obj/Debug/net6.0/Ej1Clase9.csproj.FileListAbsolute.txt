@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\bin\Debug\net6.0\Ej1Clase9.exe
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\bin\Debug\net6.0\Ej1Clase9.deps.json
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\bin\Debug\net6.0\Ej1Clase9.runtimeconfig.json
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\bin\Debug\net6.0\Ej1Clase9.dll
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\bin\Debug\net6.0\Ej1Clase9.pdb
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.AssemblyInfo.cs
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.dll
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\refint\Ej1Clase9.dll
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.pdb
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\Ej1Clase9.genruntimeconfig.cache
+C:\Users\julia\source\repos\Ej1Clase9\Ej1Clase9\obj\Debug\net6.0\ref\Ej1Clase9.dll

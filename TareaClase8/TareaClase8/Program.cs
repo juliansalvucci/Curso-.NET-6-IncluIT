@@ -35,6 +35,7 @@ for (int columnas = 0; columnas < lengthColumnas; columnas++)
     }
 }
 
+//Inteto de calculo de promedio
 int suma = 0;
 
 for (int columnas = 0; columnas < lengthColumnas; columnas++)
