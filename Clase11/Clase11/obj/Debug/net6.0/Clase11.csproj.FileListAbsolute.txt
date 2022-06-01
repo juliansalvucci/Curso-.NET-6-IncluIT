@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Clase11\Clase11\bin\Debug\net6.0\Clase11.exe
+C:\Users\julia\source\repos\Clase11\Clase11\bin\Debug\net6.0\Clase11.deps.json
+C:\Users\julia\source\repos\Clase11\Clase11\bin\Debug\net6.0\Clase11.runtimeconfig.json
+C:\Users\julia\source\repos\Clase11\Clase11\bin\Debug\net6.0\Clase11.dll
+C:\Users\julia\source\repos\Clase11\Clase11\bin\Debug\net6.0\Clase11.pdb
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.AssemblyInfo.cs
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.dll
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\refint\Clase11.dll
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.pdb
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\Clase11.genruntimeconfig.cache
+C:\Users\julia\source\repos\Clase11\Clase11\obj\Debug\net6.0\ref\Clase11.dll
