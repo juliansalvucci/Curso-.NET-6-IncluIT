@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\bin\Debug\net6.0\Clase14Herencia.exe
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\bin\Debug\net6.0\Clase14Herencia.deps.json
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\bin\Debug\net6.0\Clase14Herencia.runtimeconfig.json
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\bin\Debug\net6.0\Clase14Herencia.dll
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\bin\Debug\net6.0\Clase14Herencia.pdb
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.AssemblyInfo.cs
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.dll
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\refint\Clase14Herencia.dll
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.pdb
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\Clase14Herencia.genruntimeconfig.cache
+C:\Users\julia\source\repos\Clase14Herencia\Clase14Herencia\obj\Debug\net6.0\ref\Clase14Herencia.dll
