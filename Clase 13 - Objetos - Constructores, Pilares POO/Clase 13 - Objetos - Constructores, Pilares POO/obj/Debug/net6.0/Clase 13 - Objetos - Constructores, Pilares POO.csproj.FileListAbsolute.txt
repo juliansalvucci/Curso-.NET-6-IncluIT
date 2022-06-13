@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\bin\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.exe
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\bin\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.deps.json
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\bin\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.runtimeconfig.json
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\bin\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.dll
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\bin\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.pdb
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.AssemblyInfo.cs
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.dll
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\refint\Clase 13 - Objetos - Constructores, Pilares POO.dll
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.pdb
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\Clase 13 - Objetos - Constructores, Pilares POO.genruntimeconfig.cache
+C:\Users\julia\source\repos\Clase 13 - Objetos - Constructores, Pilares POO\Clase 13 - Objetos - Constructores, Pilares POO\obj\Debug\net6.0\ref\Clase 13 - Objetos - Constructores, Pilares POO.dll
