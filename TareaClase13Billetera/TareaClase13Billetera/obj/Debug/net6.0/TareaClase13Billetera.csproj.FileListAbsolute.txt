@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\bin\Debug\net6.0\TareaClase13Billetera.exe
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\bin\Debug\net6.0\TareaClase13Billetera.deps.json
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\bin\Debug\net6.0\TareaClase13Billetera.runtimeconfig.json
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\bin\Debug\net6.0\TareaClase13Billetera.dll
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\bin\Debug\net6.0\TareaClase13Billetera.pdb
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.AssemblyInfo.cs
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.dll
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\refint\TareaClase13Billetera.dll
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.pdb
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\TareaClase13Billetera.genruntimeconfig.cache
+C:\Users\julia\source\repos\TareaClase13Billetera\TareaClase13Billetera\obj\Debug\net6.0\ref\TareaClase13Billetera.dll
