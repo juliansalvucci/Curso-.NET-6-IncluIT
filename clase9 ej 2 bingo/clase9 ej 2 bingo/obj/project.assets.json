@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\source\\repos\\clase9 ej 2 bingo\\clase9 ej 2 bingo\\clase9 ej 2 bingo.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\clase9 ej 2 bingo\\clase9 ej 2 bingo\\clase9 ej 2 bingo.csproj",
       "projectName": "clase9 ej 2 bingo",
-      "projectPath": "C:\\Users\\julia\\source\\repos\\clase9 ej 2 bingo\\clase9 ej 2 bingo\\clase9 ej 2 bingo.csproj",
+      "projectPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\clase9 ej 2 bingo\\clase9 ej 2 bingo\\clase9 ej 2 bingo.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\source\\repos\\clase9 ej 2 bingo\\clase9 ej 2 bingo\\obj\\",
+      "outputPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\clase9 ej 2 bingo\\clase9 ej 2 bingo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
