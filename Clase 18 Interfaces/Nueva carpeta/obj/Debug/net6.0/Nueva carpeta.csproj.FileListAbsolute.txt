@@ -1,0 +1,15 @@
+C:\Users\julia\Desktop\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.exe
+C:\Users\julia\Desktop\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.deps.json
+C:\Users\julia\Desktop\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.runtimeconfig.json
+C:\Users\julia\Desktop\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.dll
+C:\Users\julia\Desktop\Nueva carpeta\bin\Debug\net6.0\Nueva carpeta.pdb
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.dll
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\refint\Nueva carpeta.dll
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.pdb
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\julia\Desktop\Nueva carpeta\obj\Debug\net6.0\ref\Nueva carpeta.dll
