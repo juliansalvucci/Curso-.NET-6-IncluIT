@@ -6,14 +6,15 @@ using System.Threading.Tasks;
 
 namespace Clase16.Modelo
 {
-    public abstract class Persona //Clase que no puede ser instanciada directamente, sino mediante sus hijos.
+    public abstract class Persona
     {
-        private DateTime _fechaNacimiento; //Encapsulamiento de fecha mediante campo.
-        private int _nroDocumento;
-        public string Nombre { get; set; }
-        public string Apellido  { get; set; }
+        private DateTime _fechaNacimiento;
+        private int _numeroDeDocumento;
 
-        public string FechaNacimiento  { //la muestro como un string
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string FechaNacimiento
+        {
             get
             {
                 return _fechaNacimiento.ToString("dd/MM/yyyy");
@@ -24,35 +25,33 @@ namespace Clase16.Modelo
             }
         }
 
-        public string NroDocumento
+        public string NumeroDeDocumento
         {
             get
             {
-                return _nroDocumento.ToString();
+                return _numeroDeDocumento.ToString();
             }
             set
             {
-
-                var sePuedeConvertir = int.TryParse(value, out _nroDocumento);
-
-                //Prueba si el string que recibe se puede convertir a int
-                //El out o salida se guardar en el campo _numeroDocumento
-
-                if (!sePuedeConvertir)  //Si no puedo convertir el posible doc a int, entonces lo seteo en 0 para que no sea nulo.
+                int numeroDeDocumentoConvertido;
+                var sePuedeConvertir = int.TryParse(value, out numeroDeDocumentoConvertido);
+                if (!sePuedeConvertir)
                 {
-                    _nroDocumento = 0;
+                    _numeroDeDocumento = 0;
+                }
+                else
+                {
+                    _numeroDeDocumento = numeroDeDocumentoConvertido;
                 }
             }
         }
 
-        public int obtenerEdad()
+        public int ObtenerEdad()
         {
             var fechaHoraActual = DateTime.Today;
+            var edadDateTime = fechaHoraActual - _fechaNacimiento;
 
-            var edad = fechaHoraActual - _fechaNacimiento;
-            //Timespan refiere a un intervalo de tiempo.
-
-            return (int)edad.TotalDays / 365;
+            return (int)edadDateTime.TotalDays / 365;
         }
     }
 }

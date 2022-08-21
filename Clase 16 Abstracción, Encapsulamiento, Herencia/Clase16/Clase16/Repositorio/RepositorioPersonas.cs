@@ -1,4 +1,5 @@
-﻿using Clase16.Modelo;
+﻿using Clase16.Interfaces;
+using Clase16.Modelo;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,36 +8,67 @@ using System.Threading.Tasks;
 
 namespace Clase16.Repositorio
 {
-    public class RepositorioPersonas //para guardar personas
+    public class RepositorioPersonas : IRepository<Persona>
     {
-        public List<Persona> Personas {get; set;}
+        //Usamos un diccionario para guardar las personas.
+        public Dictionary<string, Persona> Personas { get; set; }
 
-        public RepositorioPersonas() //Constructor
+        public RepositorioPersonas()
         {
-            //Al instanciar la clase, creo la lista.
-            Personas = new List<Persona>();
+            Personas = new Dictionary<string, Persona>();
         }
 
-        public void insertar(Persona persona)
+        public void Insertar(Persona persona)
         {
-            Personas.Add(persona);
-        }
+            var numeroDocumento = persona.NumeroDeDocumento;
 
-        public void eliminar(int numeroDoc)
-        {
-            //Eliminar
-        }
-
-        public void actualizar(Persona persona)
-        {
-            foreach(Persona personaActual in Personas)
+            var personaExiste = Personas.ContainsKey(numeroDocumento);
+            if (!personaExiste)
             {
-                if(personaActual.NroDocumento == persona.NroDocumento)
-                {
-                    persona.Apellido = personaActual.Apellido;
-                    persona.NroDocumento = personaActual.NroDocumento;
-                }
+                Personas[numeroDocumento] = persona;
             }
+        }
+
+        public void Eliminar(string numeroDocumento)
+        {
+            Personas[numeroDocumento] = null;
+        }
+
+        public void Actualizar(Persona persona)
+        {
+            var personaAActualizar = Personas[persona.NumeroDeDocumento];
+
+            if (personaAActualizar != null)
+            {
+                personaAActualizar.Nombre = persona.Nombre;
+                personaAActualizar.Apellido = persona.Apellido;
+                personaAActualizar.FechaNacimiento = persona.FechaNacimiento;
+            }
+        }
+
+        public void Actualizar(string numeroDocumento, string nombre, string apellido)
+        {
+            var personaAActualizar = Personas[numeroDocumento];
+
+            if (personaAActualizar != null)
+            {
+                personaAActualizar.Nombre = nombre;
+                personaAActualizar.Apellido = apellido;
+            }
+        }
+
+        public bool Existe(string numeroDeDocumento)
+        {
+            return Personas.ContainsKey(numeroDeDocumento);
+        }
+
+        public bool Existe(Persona persona)
+        {
+            return Existe(persona.NumeroDeDocumento);
         }
     }
 }
+
+//¿En los diccionarios puedo usar cualquier tipo de dato como clave? 44:00
+
+

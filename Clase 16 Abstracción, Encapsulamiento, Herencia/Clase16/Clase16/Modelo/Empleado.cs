@@ -10,19 +10,20 @@ namespace Clase16.Modelo
     {
         private int _salarioBruto;
 
-        public int SalarioBruto 
-        { 
+        public string Ocupacion { get; set; }
+        public string Empresa { get; set; }
+        public string ObraSocial { get; set; }
+
+        public int SalarioBruto
+        {
             set => _salarioBruto = value;
         }
 
-        public int SalarioNeto 
-        {
-            get => getSalario();
-        }
+        public int SalarioNeto { get => ObtenerSalarioNeto(); }
 
-        private int getSalario()
+        private int ObtenerSalarioNeto()
         {
-            var salarioNeto = _salarioBruto*0.85;
+            var salarioNeto = _salarioBruto * 0.85;
             return (int)salarioNeto;
         }
     }

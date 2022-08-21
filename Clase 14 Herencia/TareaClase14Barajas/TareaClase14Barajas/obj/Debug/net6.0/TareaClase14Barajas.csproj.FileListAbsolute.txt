@@ -13,3 +13,18 @@ C:\Users\julia\source\repos\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\ne
 C:\Users\julia\source\repos\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.pdb
 C:\Users\julia\source\repos\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.genruntimeconfig.cache
 C:\Users\julia\source\repos\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\ref\TareaClase14Barajas.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\bin\Debug\net6.0\TareaClase14Barajas.exe
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\bin\Debug\net6.0\TareaClase14Barajas.deps.json
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\bin\Debug\net6.0\TareaClase14Barajas.runtimeconfig.json
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\bin\Debug\net6.0\TareaClase14Barajas.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\bin\Debug\net6.0\TareaClase14Barajas.pdb
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.AssemblyInfo.cs
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\refint\TareaClase14Barajas.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.pdb
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\TareaClase14Barajas.genruntimeconfig.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 14 Herencia\TareaClase14Barajas\TareaClase14Barajas\obj\Debug\net6.0\ref\TareaClase14Barajas.dll

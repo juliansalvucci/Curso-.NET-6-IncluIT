@@ -9,6 +9,6 @@ namespace TareaClase14Barajas
     public class Carta
     {
         public int NumeroCarta { get; set; }
-        public string Palo { get; set; }
+        public string? Palo { get; set; }
     }
 }

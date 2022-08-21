@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\source\\repos\\Clase16\\Clase16\\Clase16.csproj": {}
+    "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 16 Abstracción, Encapsulamiento, Herencia\\Clase16\\Clase16\\Clase16.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\source\\repos\\Clase16\\Clase16\\Clase16.csproj": {
+    "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 16 Abstracción, Encapsulamiento, Herencia\\Clase16\\Clase16\\Clase16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\Clase16\\Clase16\\Clase16.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 16 Abstracción, Encapsulamiento, Herencia\\Clase16\\Clase16\\Clase16.csproj",
         "projectName": "Clase16",
-        "projectPath": "C:\\Users\\julia\\source\\repos\\Clase16\\Clase16\\Clase16.csproj",
+        "projectPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 16 Abstracción, Encapsulamiento, Herencia\\Clase16\\Clase16\\Clase16.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\source\\repos\\Clase16\\Clase16\\obj\\",
+        "outputPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 16 Abstracción, Encapsulamiento, Herencia\\Clase16\\Clase16\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

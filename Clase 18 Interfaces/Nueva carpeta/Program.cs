@@ -2,6 +2,7 @@
 
 
 ¿Las interfaces tiene capacidad de herencia múltiple de otras interfaces? SI.
+¿ la herencia sirver para reutilizar el codigo ?
 
 var Quilmes = new Cerveza();
 

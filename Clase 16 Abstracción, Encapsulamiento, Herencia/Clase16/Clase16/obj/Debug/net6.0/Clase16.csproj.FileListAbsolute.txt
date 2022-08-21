@@ -13,3 +13,18 @@ C:\Users\julia\source\repos\Clase16\Clase16\obj\Debug\net6.0\refint\Clase16.dll
 C:\Users\julia\source\repos\Clase16\Clase16\obj\Debug\net6.0\Clase16.pdb
 C:\Users\julia\source\repos\Clase16\Clase16\obj\Debug\net6.0\Clase16.genruntimeconfig.cache
 C:\Users\julia\source\repos\Clase16\Clase16\obj\Debug\net6.0\ref\Clase16.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.AssemblyInfo.cs
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\refint\Clase16.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.pdb
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\bin\Debug\net6.0\Clase16.exe
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\bin\Debug\net6.0\Clase16.deps.json
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\bin\Debug\net6.0\Clase16.runtimeconfig.json
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\bin\Debug\net6.0\Clase16.dll
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\bin\Debug\net6.0\Clase16.pdb
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\Clase16.genruntimeconfig.cache
+C:\Users\julia\source\repos\CursoIncluIT\Clase 16 Abstracción, Encapsulamiento, Herencia\Clase16\Clase16\obj\Debug\net6.0\ref\Clase16.dll

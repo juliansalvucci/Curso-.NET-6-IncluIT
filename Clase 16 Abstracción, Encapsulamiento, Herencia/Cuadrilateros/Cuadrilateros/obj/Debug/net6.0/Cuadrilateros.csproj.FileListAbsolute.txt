@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.exe
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.deps.json
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.runtimeconfig.json
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.dll
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\bin\Debug\net6.0\Cuadrilateros.pdb
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.AssemblyInfo.cs
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.dll
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\refint\Cuadrilateros.dll
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.pdb
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\Cuadrilateros.genruntimeconfig.cache
+C:\Users\julia\source\repos\Cuadrilateros\Cuadrilateros\obj\Debug\net6.0\ref\Cuadrilateros.dll

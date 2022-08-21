@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\source\\repos\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj": {}
+    "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 14 Herencia\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\source\\repos\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj": {
+    "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 14 Herencia\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 14 Herencia\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj",
         "projectName": "TareaClase14Barajas",
-        "projectPath": "C:\\Users\\julia\\source\\repos\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj",
+        "projectPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 14 Herencia\\TareaClase14Barajas\\TareaClase14Barajas\\TareaClase14Barajas.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\source\\repos\\TareaClase14Barajas\\TareaClase14Barajas\\obj\\",
+        "outputPath": "C:\\Users\\julia\\source\\repos\\CursoIncluIT\\Clase 14 Herencia\\TareaClase14Barajas\\TareaClase14Barajas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
