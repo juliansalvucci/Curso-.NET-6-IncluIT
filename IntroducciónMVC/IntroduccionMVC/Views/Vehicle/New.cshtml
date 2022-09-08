@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IntroduccionMVC.Data.Entities.Vehiculo  
+@{
+    ViewData["Title"] = "Create new Vehicle";
+
+    <h1>Agregar nuevo vehículo</h1>
+    <hr />
+
+    <form asp-action="Create">  <!--Acción del controlador-->
+    <div class="row">
+           <div class="mb-3">
+               <label for="Dominio" class="form-label">Dominio</label>
+               <input asp-for="Dominio" type="text" class="form-control" id="Dominio" aria-describedby="Dominio">
+           </div>
+            <div class="mb-3">
+                <label for="NumeroChasis" class="form-label">Numero de Chasis</label>
+                <input asp-for="NumeroChasis" type="number" class="form-control" id="NumeroChasis" aria-describedby="NumeroChasis">
+            </div>
+            <div class="mb-3">
+                <label for="Propietario" class="form-label">Propietario</label>
+                <input asp-for="Propietario" type="text" class="form-control" id="Propietario" aria-describedby="Propietario">
+            </div>
+            <div class="mb-3">
+                <label for="AnioFabricacion" class="form-label">Año de fabricación</label>
+                <input asp-for="AnioFabricacion" type="text" class="form-control" id="AnioFabricacion" aria-describedby="AnioFabricacion">
+            </div>
+
+            <!-- 
+            asp-for: lo que se guarda en el campo, es parte del framework de MVC. Se asocia el campo con la propiedad del modelo utilizado.
+            es como el formControlName de angular.
+            -->
+    </div>
+        
+     
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
+}

@@ -22,5 +22,13 @@ namespace ApiDapper.Controllers
             var rule = new ProductRule();
             return rule.GetProdcutById(id);
         }
+
+        [HttpDelete("/api/orders")]
+        public bool DeleteOrderById(int orderId)
+        {
+            var rule = new OrderRule();
+            rule.DeleteOrderById(orderId);
+            return true;
+        } 
     }
 }

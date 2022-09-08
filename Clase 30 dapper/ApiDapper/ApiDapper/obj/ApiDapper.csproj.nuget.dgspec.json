@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia\\source\\repos\\ApiDapper\\ApiDapper\\ApiDapper.csproj": {}
+    "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 30 dapper\\ApiDapper\\ApiDapper\\ApiDapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia\\source\\repos\\ApiDapper\\ApiDapper\\ApiDapper.csproj": {
+    "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 30 dapper\\ApiDapper\\ApiDapper\\ApiDapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia\\source\\repos\\ApiDapper\\ApiDapper\\ApiDapper.csproj",
+        "projectUniqueName": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 30 dapper\\ApiDapper\\ApiDapper\\ApiDapper.csproj",
         "projectName": "ApiDapper",
-        "projectPath": "C:\\Users\\julia\\source\\repos\\ApiDapper\\ApiDapper\\ApiDapper.csproj",
+        "projectPath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 30 dapper\\ApiDapper\\ApiDapper\\ApiDapper.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia\\source\\repos\\ApiDapper\\ApiDapper\\obj\\",
+        "outputPath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 30 dapper\\ApiDapper\\ApiDapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
