@@ -2459,11 +2459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Desktop\\Clase35\\IntroduccionMVC\\IntroduccionMVC.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\IntroducciónMVC\\IntroduccionMVC\\IntroduccionMVC.csproj",
       "projectName": "IntroduccionMVC",
-      "projectPath": "C:\\Users\\julia\\Desktop\\Clase35\\IntroduccionMVC\\IntroduccionMVC.csproj",
+      "projectPath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\IntroducciónMVC\\IntroduccionMVC\\IntroduccionMVC.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Desktop\\Clase35\\IntroduccionMVC\\obj\\",
+      "outputPath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\IntroducciónMVC\\IntroduccionMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

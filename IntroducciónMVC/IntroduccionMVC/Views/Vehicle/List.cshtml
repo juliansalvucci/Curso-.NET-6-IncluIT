@@ -5,6 +5,9 @@
     Documentación de Bootstrap sobre Grid System para divs
     https://getbootstrap.com/docs/5.1/layout/grid/
 *@
+<div class="row">
+    <td><a asp-action="Remove" asp-controller="Vehicle">Eliminar</a></td>
+</div>
 
 <div class="row">
     <div class="col-12">
@@ -24,7 +27,8 @@
                         <td>@vehiculo.Id</td>
                         <td>@vehiculo.Dominio</td>
                         <td>@vehiculo.AnioFabricacion</td>
-                        <td><a asp-action="Edit" asp-controller="Vehicle">Editar</a></td>
+                        <td><a asp-action="Edit" asp-controller="Vehicle" asp-route-id="@vehiculo.Id">Editar</a></td>
+                        <td><a asp-action="Remove" asp-controller="Vehicle" asp-route-id="@vehiculo.Id">Eliminar</a></td>
                     </tr>
                 }
             </tbody>

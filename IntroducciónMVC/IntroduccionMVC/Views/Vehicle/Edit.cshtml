@@ -1,6 +1,42 @@
 ﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
+@model VehicleModel
 @{
-    ViewData["Title"] = "Edit Vehicle";
+    ViewData["Title"] = "Create new Vehicle";
+
+    <h1>Editar vehículo</h1>
+    <hr />
+
+    <form asp-action="Update" asp-route-id="@Model.Id">
+        <!--Acción del controlador-->
+
+        <partial name="_FormFields" model="@Model">
+            <!--Para reutilizar parte de un formlario-->
+        <!--
+        <div class="row">
+            <div class="mb-3">
+                <label for="Dominio" class="form-label">Dominio</label>
+                <input asp-for="Dominio" type="text" class="form-control" id="Dominio" aria-describedby="Dominio">
+            </div>
+            <div class="mb-3">
+                <label for="NumeroChasis" class="form-label">Numero de Chasis</label>
+                <input asp-for="NumeroChasis" type="number" class="form-control" id="NumeroChasis" aria-describedby="NumeroChasis">
+            </div>
+            <div class="mb-3">
+                <label for="Propietario" class="form-label">Propietario</label>
+                <input asp-for="Propietario" type="text" class="form-control" id="Propietario" aria-describedby="Propietario">
+            </div>
+            <div class="mb-3">
+                <label for="AnioFabricacion" class="form-label">Año de fabricación</label>
+                <input asp-for="AnioFabricacion" type="text" class="form-control" id="AnioFabricacion" aria-describedby="AnioFabricacion">
+            </div>
+
+
+        </div>
+        -->
+
+
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </form>
 }

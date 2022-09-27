@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\source\\repos\\Clase21\\Clase21\\Clase21.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 21 Interfaces\\Clase21\\Clase21.csproj",
       "projectName": "Clase21",
-      "projectPath": "C:\\Users\\julia\\source\\repos\\Clase21\\Clase21\\Clase21.csproj",
+      "projectPath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 21 Interfaces\\Clase21\\Clase21.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\source\\repos\\Clase21\\Clase21\\obj\\",
+      "outputPath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\Clase 21 Interfaces\\Clase21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

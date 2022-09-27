@@ -9,6 +9,10 @@
     <hr />
 
     <form asp-action="Create">  <!--Acción del controlador-->
+
+    <partial name="_FormFields" model="@Model"> <!--Para reutilizar parte de un formlario-->
+
+    <!--
     <div class="row">
            <div class="mb-3">
                <label for="Dominio" class="form-label">Dominio</label>
@@ -26,13 +30,8 @@
                 <label for="AnioFabricacion" class="form-label">Año de fabricación</label>
                 <input asp-for="AnioFabricacion" type="text" class="form-control" id="AnioFabricacion" aria-describedby="AnioFabricacion">
             </div>
-
-            <!-- 
-            asp-for: lo que se guarda en el campo, es parte del framework de MVC. Se asocia el campo con la propiedad del modelo utilizado.
-            es como el formControlName de angular.
-            -->
     </div>
-        
+        -->
      
         <button type="submit" class="btn btn-primary">Guardar</button>
     </form>

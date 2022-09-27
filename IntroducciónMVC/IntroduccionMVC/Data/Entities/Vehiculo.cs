@@ -1,4 +1,6 @@
-﻿namespace IntroduccionMVC.Data.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace IntroduccionMVC.Data.Entities
 {
     public class Vehiculo : BaseEntity
     {

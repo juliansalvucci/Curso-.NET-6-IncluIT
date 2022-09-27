@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sLmhteIreE9eB+0+ygrNHhMMlRHFbvi5Ud6uB5zyruI58O0bM/OPqhzcd/cZ552/qy/qRR1hj6BjM/h+Z4iMaA==",
+  "dgSpecHash": "dejghRas46XXs2V8vYnnz4nwqSh4NKsOc9yNYuTlc8848zFl+yAyVvgnf8HBTF54DzoUKri3zFzuw2fPkEyPng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julia\\Desktop\\Clase35\\IntroduccionMVC\\IntroduccionMVC.csproj",
+  "projectFilePath": "C:\\Users\\julia\\Desktop\\Nueva carpeta\\Curso-.NET-6-IncluIT\\IntroducciónMVC\\IntroduccionMVC\\IntroduccionMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",
