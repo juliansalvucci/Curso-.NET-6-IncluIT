@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function test() {
+            fetch("http://168.181.184.237:8080/api/usuario/test", { method: "GET" })
+                .then((response) => response.text())
+                .then((data) => {
+                    console.log(data);
+                    document.getElementById("H1Id").innerHTML = data;
+                }).catch(error => {
+                    console.log(error);
+                })
+        }
+    </script>
+</head>
+
+<body>
+    <button onclick="test()">Hola</button>
+    <h1 id="H1Id"></h1>
+
+</body>
+
+</html>
